@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iranghan&label=Profile%20views&color=0e75b6&style=flat" alt="iranghan" /> </p>
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **django&python**
 
 - 👯 I did a collaboration. [Hobbystore_TeamProject](https://github.com/HanIRang/Hobbystore_TeamProject.git)
 
